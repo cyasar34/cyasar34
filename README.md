@@ -20,7 +20,7 @@
 <h3 align="left">İletişim | Contact</h3>
 <p align="left">
   ✨ Linkedin: <a href="https://linkedin.com/in/çisem-y-88b411a5" target="blank">Çisem Yaşar</a> <br>
-  ✨ Kişisel Sayfa: <a href="https://avesis.gelisim.edu.tr/cyasar" target="blank">Çisem Yaşar Üniversite Web Sayfası</a> 
+  ✨ Kişisel Sayfa: <a href="https://avesis.gelisim.edu.tr/cyasar" target="blank">Çisem Yaşar Üniversite Web Sayfası</a> <br>
   ✨ Personal Page: <a href="https://avesis.gelisim.edu.tr/cyasar" target="blank">Çisem Yaşar Üniversite Web Sayfası</a> 
 
 
