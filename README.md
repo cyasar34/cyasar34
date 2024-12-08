@@ -1,6 +1,6 @@
 <h1 align="justify">Hi 👋, I'm Çisem Yaşar</h1>
-<h4 align="justify">Merhaba! Ben Çisem Yaşar. İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Bölümü'nde öğretim görevlisiyim. Aynı zamanda Web Tasarımı ve Kodlama Programının Program Başkanıyım. Bilgisayar ağları, açık kaynak işletim sistemleri, siber güvenlik, internet programcılığı, ileri internet programcılığı, sistem analiz ve tasarımı konularında eğitimler vermekteyim. <br>
-<h4 align="justify">Hello! I am Çisem Yaşar. I am a lecturer at Istanbul Gelisim University, Department of Computer Technologies. I am also the Program Head of the Web Design and Coding Program. I provide trainings on computer networks, open source operating systems, cyber security, internet programming, advanced internet programming, system analysis and design.</h3>
+<p align="justify">Merhaba! Ben Çisem Yaşar. İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Bölümü'nde öğretim görevlisiyim. Aynı zamanda Web Tasarımı ve Kodlama Programının Program Başkanıyım. Bilgisayar ağları, açık kaynak işletim sistemleri, siber güvenlik, internet programcılığı, ileri internet programcılığı, sistem analiz ve tasarımı konularında eğitimler vermekteyim. <br>
+<p align="justify">Hello! I am Çisem Yaşar. I am a lecturer at Istanbul Gelisim University, Department of Computer Technologies. I am also the Program Head of the Web Design and Coding Program. I provide trainings on computer networks, open source operating systems, cyber security, internet programming, advanced internet programming, system analysis and design.</h3>
 
 <h2 align="left">Hakkımda | About Me</h2>
 
