@@ -16,7 +16,7 @@
 
 
 <h2 align="left"> 🚀 Akademik Çalışmalar | Academic Research</h2>
-<p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, ulusal ve uluslararası konferanslarda yapılan sunumlarda aşağıda belirtilmiştir.</p>
+<p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, aşağıda ulusal ve uluslararası konferanslarda yapılan sunumlarla birlikte açıklanmıştır.</p>
 <ol dir="auto" align="justify">
 <li>
 <p dir="auto"><strong><a href="https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI">SOKAK CANLILARINA YARDIM İÇİN WEB TABANLI TAKİP SİSTEMİ, 1.ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ</a></strong><br>
