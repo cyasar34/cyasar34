@@ -19,6 +19,13 @@
 <p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, aşağıda ulusal ve uluslararası konferanslarda yapılan sunumlarla birlikte açıklanmıştır.</p>
 <ol dir="auto" align="justify">
 <li>
+<p dir="auto"><strong><a href="https://github.com/cyasar34/WEB-BASED-EDUCATION-PLATFORM-DEVELOPMENT-SYSTEM-ANALYSIS-AND-DESIGN">WEB TABANLI EĞİTİM PLATFORMU GELİŞTİRME: SİSTEM ANALİZİ VE TASARIMI, SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS</a></strong><br>
+<em>WEB-BASED EDUCATION PLATFORM DEVELOPMENT: SYSTEM ANALYSIS AND DESIGN</em><br>
+<em>Web tabanlı eğitim platformunun geliştirilmesinde HTML, CSS ve JavaScript teknolojileri kullanılmıştır. Oluşturulan platform tasarlanırken, problemin belirlenmesinde Balık Kılçığı (Ishikawa Diyagramı) kullanılmış, planlanma aşamasında ise SWOT analizi yönteminden yararlanılmıştır. Platformun analiz aşamasında ise akış süreç şeması (algoritma) ve varlık ilişki diyagramı oluşturulmuştur. Oluşturulan diyagram sayesinde, kullanıcılar, ders içerikleri, notlar ve yönetici paneli gibi temel varlıkların birbirleriyle olan ilişkilerini görebilmektedir. </em>
+<em>HTML, CSS and JavaScript technologies were used in the development of the web-based training platform. While designing the platform, Fishbone (Ishikawa Diagram) was used to identify the problem and SWOT analysis method was utilized in the planning phase. In the analysis phase of the platform, a flow process diagram (algorithm) and an entity relationship diagram were created. Thanks to the diagram, users can see the relationships between basic assets such as course content, grades and admin panel. </em>
+</p>
+</li>
+<li>
 <p dir="auto"><strong><a href="https://github.com/cyasar34/SOKAK-CANLILARINA-YARDIM-ICIN-WEB-TABANLI-TAKIP-SISTEMI">SOKAK CANLILARINA YARDIM İÇİN WEB TABANLI TAKİP SİSTEMİ, 1.ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ</a></strong><br>
 <em>WEB-BASED TRACKING SYSTEM TO HELP STREET ANIMALS</em><br>
 <em>Tasarlanan sistem tüm yönleriyle planlanırken SWOT analizi ve nasıl bir yol izleneceğini belirtmek için de Warnier-Orr diyagramı’ndan yararlanılmıştır. Sistemde mevcut durum ile hedef arasındaki farkı ortaya koymak için ise ihtiyaç analizi yapılmıştır. Aynı zamanda yönetici paneli yardımıyla dinamik olarak tasarlanan yapı PHP dili ile programlanmış ve veritabanı yönetimi için PhpMyAdmin yapısı kullanılmıştır.</em>
