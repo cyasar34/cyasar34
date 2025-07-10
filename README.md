@@ -19,6 +19,14 @@
 <p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, aşağıda ulusal ve uluslararası konferanslarda yapılan sunumlarla birlikte açıklanmıştır.</p>
 <ol dir="auto" align="justify">
 <li>
+<p dir="auto"><strong><a href="https://github.com/cyasar34/CYBER-SECURITY-SOFTWARE-PYWALL">SİBER GÜVENLİK YAZILIMI: PYWALL, 11th International Azerbaijan Congress on Life, Engineering, Mathematical, and Applied Sciences</a></strong><br>
+<em>CYBER SECURITY SOFTWARE PYWALL</em><br>
+<em>BBu çalışmada, dijital güvenliği arttırmayı hedefleyen Python tabanlı bir masaüstüyazılımı olan Pywall sunulmaktadır. Pywall; ağ trafiği analizi, zararlı yazılım taraması ve indirilenuygulamalar gibi üç ana modülden oluşan entegre bir güvenlik çözümü sunmaktadır. Yazılım, her birmodül ile potansiyel tehditleri hızlı bir şekilde tespit eder ve kullanıcıyı bilgilendirir. Yazılımıngeliştirilmesinde, Python’un ağ analizi ve tehdit algılama konularındaki açık kaynakkütüphanelerinden yararlanılmıştır. 
+</em><br>
+<em>This paper presents Pywall, a Python-based desktop software that aims to enhance digital security. Pywall provides an integrated security solution consisting of three main modules: network traffic analysis, malware scanning and downloaded applications. With each module, the software quickly detects potential threats and notifies the user. Python's open source libraries on network analysis and threat detection were utilized in the development of the software.</em>
+</p>
+</li>
+<li>
 <p dir="auto"><strong><a href="https://github.com/cyasar34/WEB-BASED-LEARNING-PLATFORM-SUPPORTED-BY-INTERACTIVE-SIMULATIONS-PHYLAB">ETKİLEŞİMLİ SİMÜLASYONLARLA DESTEKLİ WEB TABANLI ÖĞRENME PLATFORMU: PHYLAB, 11th International Azerbaijan Congress on Life, Engineering, Mathematical, and Applied Sciences</a></strong><br>
 <em>WEB-BASED LEARNING PLATFORM SUPPORTED BY INTERACTIVE SIMULATIONS: PHYLAB</em><br>
 <em>Bu çalışmada, fizik dersi içeriklerinin dijital ortamda etkileşimli simülasyonlar aracılığıyla sunulmasını amaçlayan web tabanlı bir öğrenme platformu tasarlanmıştır. Bu platform, eğitimde fırsat eşitliğini desteklemek, öğrenci motivasyonunu artırmak ve deneyimsel öğrenme süreçlerini güçlendirmek amacıyla geliştirilmiştir. 
