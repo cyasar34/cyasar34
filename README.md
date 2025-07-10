@@ -19,6 +19,14 @@
 <p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, aşağıda ulusal ve uluslararası konferanslarda yapılan sunumlarla birlikte açıklanmıştır.</p>
 <ol dir="auto" align="justify">
 <li>
+<p dir="auto"><strong><a href="https://github.com/cyasar34/WEB-BASED-LEARNING-PLATFORM-SUPPORTED-BY-INTERACTIVE-SIMULATIONS-PHYLAB">ETKİLEŞİMLİ SİMÜLASYONLARLA DESTEKLİ WEB TABANLI ÖĞRENME PLATFORMU: PHYLAB, 11th International Azerbaijan Congress on Life, Engineering, Mathematical, and Applied Sciences</a></strong><br>
+<em>WEB-BASED LEARNING PLATFORM SUPPORTED BY INTERACTIVE SIMULATIONS: PHYLAB</em><br>
+<em>Bu çalışmada, fizik dersi içeriklerinin dijital ortamda etkileşimli simülasyonlar aracılığıyla sunulmasını amaçlayan web tabanlı bir öğrenme platformu tasarlanmıştır. Bu platform, eğitimde fırsat eşitliğini desteklemek, öğrenci motivasyonunu artırmak ve deneyimsel öğrenme süreçlerini güçlendirmek amacıyla geliştirilmiştir. 
+</em><br>
+<em>In this study, a web-based learning platform was designed to present physics course content through interactive simulations in a digital environment. This platform was developed to support equal opportunity in education, increase student motivation and strengthen experiential learning processes.</em>
+</p>
+</li>
+<li>
 <p dir="auto"><strong><a href="https://github.com/cyasar34/WEB-BASED-SYSTEM-ANALYSIS-AND-DESIGN-FOR-DISASTER-MANAGEMENT-AND-ENVIRONMENTAL-AWARENESS">AFET YÖNETİMİ VE ÇEVRE BİLİNCİ İÇİN WEB TABANLI SİSTEM ANALİZİ VE TASARIMI, 11th International Azerbaijan Congress on Life, Engineering, Mathematical, and Applied Sciences</a></strong><br>
 <em>WEB-BASED SYSTEM ANALYSIS AND DESIGN FOR DISASTER MANAGEMENT AND ENVIRONMENTAL AWARENESS </em><br>
 <em>Buçalışma, toplumsal farkındalığı artırmak ve bilgiye erişimi kolaylaştırmak amacıyla geliştirilen webtabanlı bir platformun sistem analiz ve tasarım sürecini sunmaktadır. Küresel ısınma, iklim değişikliğive deprem gibi diğer doğal afetlere yönelik bilgilendirici içerikler sunan platform, aynı zamandageleceğe mektup bırak ve çevre hedefi belirleme gibi kullanıcı katılımını teşvik eden yenilikçi özellikleri de barındırmaktadır. Tasarlanan sistem tüm yönleri ile ele alınmış, probleminbelirlenmesinde Balık Kılçığı (Ishikawa Diyagramı) kullanılmış, planlama aşamasında ise SWOTanalizinden yararlanılmıştır. Ayrıca sistemin analizi aşamasında akış süreç şeması (algoritma)oluşturulmuştur. Platform, HTML, CSS, JavaScript ve PHP programlama dili ile yazılmış veveritabanı yönetimi için PhpMyAdmin kullanılmıştır.  
