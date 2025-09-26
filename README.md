@@ -11,7 +11,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 
 🎓 Academician | 📘 Education Technologies Specialist | 💻 Cyber Security | 💻 Web Programming
 
-<h2 align="left"> 🌟 Hakkımda | About Me</h2>
+<h2 align="left"> 🌟 Hakkımda | About Mee</h2>
 
 <p align="left">
 📚 Eğitim: Bilgisayar ve Öğretim Teknolojileri Öğretmenliği (Balıkesir Üniversitesi, Tezli Yüksek Lisans, 2019) | Bilgisayar ve Öğretim Teknolojileri Öğretmenliği (Marmara Üniversitesi, Lisans, 2016)<br>
