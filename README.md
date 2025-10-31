@@ -24,9 +24,17 @@ My goal is to train qualified software developers and IT specialists who not onl
 <p align="justify">Öğrencilerimle birlikte yürüttüğümüz çalışmaların özeti, aşağıda ulusal ve uluslararası konferanslarda yapılan sunumlarla birlikte açıklanmıştır.</p>
 <ol dir="auto" align="justify">
 <li>
+<p dir="auto"><strong><a href="https://github.com/cyasar34/CYBER-SECURITY-SOFTWARE-PYWALL">WEB UYGULAMALARI GÜVENLİĞİ ALANINDA GÜVENLİK AÇIĞI ÇALIŞMALARINDAN OWASP TOP 10 İNCELEMESİ, İstanbul Gelişim Üniversitesi Sosyal Bilimler Dergisi</a></strong><br>
+<em>OWASP TOP 10 REVIEW OF VULNERABILITY STUDIES IN WEB APPLICATION SECURITY</em><br>
+<em>Bilgi güvenliğini sağlamak için bilgi sistemini oluşturan kaynaklarda var olan güvenlik açıkları ve risklerini bulmak gerekmektedir. Bu açıkların büyük bölümü etkili iletişim ve bilgi alışverişi sağlamak amacıyla kullanılan ve neredeyse bütün sistemlerde yer alan web uygulamalarında bulunmaktadır. OWASP (Open Web Application Security Project), web uygulamalarına yönelik kritik güvenlik açıkları ve risklerini oluşturan güncel ve önemli kavramları belirlemektedir. Bu amaçla 10 maddeden oluşan bir liste yayınlamaktadır. Bu çalışmada, OWASP tarafından yayımlanan güvenlik açıkları ve önerileri ele alınmış olup,  web uygulamalarında bilgi güvenliğinin sağlanmasına yönelik katkı sunması amaçlanmıştır. Her madde ayrı ayrı araştırılarak analiz edilmiştir. Literatür incelendiğinde karşılaşılan çalışmaların amaçları ve kullanılan yöntemleri üzerinde durulmuştur. Yayımlanan güncel listeye dördüncü sırada olan güvensiz tasarım, sekizinci sırada yer alan yazılım ve veri bütünlüğü arızaları ve onuncu sırada yer alan sunucu taraflı istek arızaları kategorileri yeni eklenmiştir. Eklenen bu 3 kategori konusunda çalışmaların yetersiz olduğu görülmüştür.  Sonuç olarak yeni eklenen maddelerle birlikte literatürde yer alan eksikliklerin giderilmesine yönelik katkı sağlanmıştır. 
+</em><br>
+<em>In order to ensure information security, it is necessary to find the vulnerabilities and risks that exist in the resources that make up the information system. Most of these vulnerabilities are found in web applications, which are used for effective communication and information exchange and are found in almost all systems. OWASP (Open Web Application Security Project) identifies current and important concepts that constitute critical vulnerabilities and risks for web applications. For this purpose, it publishes a list of 10 items. In this study, the vulnerabilities and recommendations published by OWASP are discussed and it is aimed to contribute to the provision of information security in web applications. Each item was investigated and analyzed separately. When the literature was examined, the aims and methods used in the studies encountered were emphasized. The fourth category of insecure design, the eighth category of software and data integrity failures, and the tenth category of server-side request failures have been added to the current list. It has been observed that studies on these 3 categories are insufficient.  As a result, with the newly added items, a contribution has been made to fill the gaps in the literature. </em>
+</p>
+</li>
+<li>
 <p dir="auto"><strong><a href="https://github.com/cyasar34/CYBER-SECURITY-SOFTWARE-PYWALL">SİBER GÜVENLİK YAZILIMI: PYWALL, 11th International Azerbaijan Congress on Life, Engineering, Mathematical, and Applied Sciences</a></strong><br>
 <em>CYBER SECURITY SOFTWARE PYWALL</em><br>
-<em>BBu çalışmada, dijital güvenliği arttırmayı hedefleyen Python tabanlı bir masaüstüyazılımı olan Pywall sunulmaktadır. Pywall; ağ trafiği analizi, zararlı yazılım taraması ve indirilenuygulamalar gibi üç ana modülden oluşan entegre bir güvenlik çözümü sunmaktadır. Yazılım, her birmodül ile potansiyel tehditleri hızlı bir şekilde tespit eder ve kullanıcıyı bilgilendirir. Yazılımıngeliştirilmesinde, Python’un ağ analizi ve tehdit algılama konularındaki açık kaynakkütüphanelerinden yararlanılmıştır. 
+<em>Bu çalışmada, dijital güvenliği arttırmayı hedefleyen Python tabanlı bir masaüstüyazılımı olan Pywall sunulmaktadır. Pywall; ağ trafiği analizi, zararlı yazılım taraması ve indirilenuygulamalar gibi üç ana modülden oluşan entegre bir güvenlik çözümü sunmaktadır. Yazılım, her birmodül ile potansiyel tehditleri hızlı bir şekilde tespit eder ve kullanıcıyı bilgilendirir. Yazılımıngeliştirilmesinde, Python’un ağ analizi ve tehdit algılama konularındaki açık kaynakkütüphanelerinden yararlanılmıştır. 
 </em><br>
 <em>This paper presents Pywall, a Python-based desktop software that aims to enhance digital security. Pywall provides an integrated security solution consisting of three main modules: network traffic analysis, malware scanning and downloaded applications. With each module, the software quickly detects potential threats and notifies the user. Python's open source libraries on network analysis and threat detection were utilized in the development of the software.</em>
 </p>
@@ -106,6 +114,14 @@ My goal is to train qualified software developers and IT specialists who not onl
 <tbody>
 <tr>
 <td>1</td>
+<td>FİZİK DENEYLERİ SİMÜLASYON PLATFORMU</td>
+<td>TR Patent</td>
+<td>ÖĞR. GÖR. YUSUF TÜRLÜ, ARDA BALLIKAYA, ERAY ERTAN</td>
+<td>-</td>
+<td>2025/014311</td>
+</tr>
+<tr>
+<td>2</td>
 <td>CİLT BAKIM ASİSTANI ALGORİTMASI</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, NURCAN KOCATÜRK, EREN ATCI</td>
@@ -113,7 +129,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/015528</td>
 </tr>
 <tr>
-<td>2</td>
+<td>3</td>
 <td>ETKİLEŞİMLİ SOSYAL SPOR PLATFORMU</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, MUSAB ÖZKÖMEÇ, BERFİN HALİSÇELİK, SÜLEYMAN ATEŞ</td>
@@ -121,7 +137,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/015526</td>
 </tr>
 <tr>
-<td>3</td>
+<td>4</td>
 <td>YAPAY ZEKA DESTEKLİ UZAY SİMÜLASYONU ALGORİTMASI</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, NAZLI ÖZDEMİR, MEHMET FATİH DAYIDİNÇ</td>
@@ -129,7 +145,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/015524</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>EKİM PLANLAMASI İÇİN BİR SİSTEM</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, SÜLEYMAN KILIÇ, İSA TÜRK, TALHA SEYİTOĞLU</td>
@@ -137,7 +153,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/009986</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td>TARİH ALANINDA BİLGİ PAYLAŞIM AMACI İLE KİŞİLERİ ORTAK BİR PLATFORMDA BULUŞTURAN SİSTEM</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, YUNUS EMRE TURHAN, İBRAHİM EFE KUTAS</td>
@@ -145,7 +161,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/008331</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td>SAĞLIKLI YAŞAM VE SPORU BENİMSETEN YENİ BİR SİSTEM</td>
 <td>TR Patent</td>
 <td>ÖĞR. GÖR. ÇİSEM YAŞAR, EREN AYTEPE, KÜBRA YILDIRIM, AHMET BURAK BARUT</td>
@@ -153,7 +169,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2024/008327</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td><a href="https://patents.google.com/patent/WO2024085828A1" rel="nofollow">Urine analysis tube that does not pass the sun's rays</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
@@ -161,7 +177,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>2022/015796</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td><a href="https://patents.google.com/patent/WO2024049375A1" rel="nofollow">Practical insect catching apparatus</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>Tuğba SARAY ÇETİNKAYA, ÇİSEM YAŞAR</td>
@@ -169,7 +185,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>2022/013514</td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td><a href="https://patents.google.com/patent/WO2024049368A1" rel="nofollow">An umbrella that measures the intensity of rain</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR, Tuğba SARAY ÇETİNKAYA</td>
@@ -177,7 +193,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2022/013515</td>
 </tr>
 <tr>
-<td>10</td>
+<td>11</td>
 <td><a href="https://patents.google.com/patent/DE112023000278T5" rel="nofollow">Stroller with driving assistance mechanism</a></td>
 <td>Germany, TR Patent</td>
 <td>Tuğba SARAY ÇETİNKAYA, ÇİSEM YAŞAR</td>
@@ -185,7 +201,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2022/014311</td>
 </tr>
 <tr>
-<td>11</td>
+<td>12</td>
 <td><a href="https://patents.google.com/patent/WO2024226009A1" rel="nofollow">Artificial intelligence supported tree pruning shears</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
@@ -193,7 +209,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2023/004794</td>
 </tr>
 <tr>
-<td>12</td>
+<td>13</td>
 <td><a href="https://patents.google.com/patent/WO2024181941A1" rel="nofollow">Robotic arm design for fundal pressure</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
@@ -201,7 +217,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2023/002192</td>
 </tr>
 <tr>
-<td>13</td>
+<td>14</td>
 <td><a href="https://patents.google.com/patent/WO2024205532A1" rel="nofollow">Mechanism that enables people with muscle diseases to open the doors</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
@@ -209,7 +225,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2023/003579</td>
 </tr>
 <tr>
-<td>14</td>
+<td>15</td>
 <td><a href="https://patents.google.com/patent/WO2024226014A1" rel="nofollow">System showing the mineral values trees take from the soil</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
@@ -217,7 +233,7 @@ My goal is to train qualified software developers and IT specialists who not onl
 <td>TR2023/004766</td>
 </tr>
 <tr>
-<td>15</td>
+<td>16</td>
 <td><a href="https://patents.google.com/patent/WO2024205534A1" rel="nofollow">Sensor mechanism that finds the area where epidural anesthesia is performed</a></td>
 <td>WIPO (PCT), TR Patent</td>
 <td>ÇİSEM YAŞAR</td>
