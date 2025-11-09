@@ -1,11 +1,27 @@
 <h1 align="justify">Merhaba 👋 </h1>
-<p align="justify">Ben Öğr. Gör. Çisem Yaşar. İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Bölümü’nde öğretim görevlisi olarak görev yapıyor, aynı zamanda Yazılım, Uygulama Geliştirme ve Çözümleme Bölümü Bölüm Başkanlığı ile Ön-Yüz Yazılım Geliştirme Programı Program Başkanlığını yürütüyorum.
-Akademik ve mesleki odağım; bilgisayar ağları, açık kaynak işletim sistemleri, siber güvenlik, internet programcılığı, ileri internet programcılığı, javascript uygulamaları, web uygulamalarında güvenlik ile sistem analiz ve tasarımı alanlarını kapsıyor. Bu alanlarda lisans ve ön lisans öğrencilerine eğitim verirken, aynı zamanda sektörel yenilikleri ve güncel teknolojileri akademik çalışmalarımda ele alıyor, öğrencilerimi de bu vizyonla buluşturmayı hedefliyorum.
-Amacım; teknolojiyi sadece kullanan değil, üreten ve geliştiren, güvenli ve sürdürülebilir çözümler tasarlayabilen nitelikli yazılım geliştiricileri ve bilişim uzmanları yetiştirmek.
+<p align="justify">
+Ben, Bilgisayar Teknolojileri Bölümü'nde Öğretim Görevlisi olarak görev yapıyorum. Aynı zamanda <b>Yazılım, Uygulama Geliştirme ve Çözümleme Bölüm Başkanlığı</b> ve <b>Ön-Yüz Yazılım Geliştirme Program Başkanlığı</b> görevlerini yürütüyorum.
+<h4 align="left"> 🚀 Odaklandığım Teknolojiler & Uzmanlık Alanlarım</h4>
+🌐 Ağ Teknolojileri & Siber Güvenlik<br>
+💻 Açık Kaynak İşletim Sistemleri<br>
+⚡ İnternet Programcılığı (JavaScript, İleri Web Uygulamaları)<br>
+🔒 Web Uygulama Güvenliği<br>
+📊 Sistem Analizi & Tasarımı<br><br>
+  
+Teknolojiyi sadece kullanan değil, üreten, şekillendiren ve güvenliğini sağlayan nesiller yetiştirmek. Sektörel yenilikleri akademiyle harmanlayarak, sürdürülebilir yazılım çözümleri geliştiren bilişim uzmanları yetiştiriyorum.
+  
 <br>
-<p align="justify"> I am Lecturer Çisem Yaşar. I am a lecturer at the Department of Computer Technologies at Istanbul Gelişim University, and I also serve as the Head of the Software, Application Development, and Analysis Department and the Program Director of the Front-End Software Development Program.
-My academic and professional focus encompasses computer networks, open-source operating systems, cybersecurity, internet programming, advanced internet programming, JavaScript applications, security in web applications, and system analysis and design. While teaching undergraduate and graduate students in these areas, I also address industry innovations and current technologies in my academic work, aiming to share this vision with my students.
-My goal is to train qualified software developers and IT specialists who not only use technology but also produce and develop it, capable of designing secure and sustainable solutions.</h3>
+<p align="justify"> I am an Instructor in the Computer Technologies Department. I also serve as the <b>Head of the Software, Application Development, and Analysis Department</b> and the <b>Head of the Front-End Software Development Program</b>.
+<h4 align="left"> 🚀 Technologies I Focus On & My Areas of Expertise</h4>
+🌐 Network Technologies & Cybersecurity<br>
+💻 Open Source Operating Systems<br>
+⚡ Internet Programming (JavaScript, Advanced Web Applications)<br>
+🔒 Web Application Security<br>
+📊 System Analysis & Design<br><br>
+  
+To raise generations who not only use technology, but also produce, shape, and ensure its security. By blending sectoral innovations with academia, I train IT experts who develop sustainable software solutions.
+
+Translated with DeepL.com (free version)
 
 🎓 Akademisyen | 📘 Eğitim Teknolojileri Uzmanı | 💻 Siber Güvenlik | 💻 Web Programlama
 
