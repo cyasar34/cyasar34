@@ -21,7 +21,6 @@ Teknolojiyi sadece kullanan değil, üreten, şekillendiren ve güvenliğini sa�
   
 To raise generations who not only use technology, but also produce, shape, and ensure its security. By blending sectoral innovations with academia, I train IT experts who develop sustainable software solutions.
 
-Translated with DeepL.com (free version)
 
 🎓 Akademisyen | 📘 Eğitim Teknolojileri Uzmanı | 💻 Siber Güvenlik | 💻 Web Programlama
 
