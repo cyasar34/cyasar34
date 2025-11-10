@@ -1,7 +1,7 @@
 <h1 align="justify">Merhaba 👋 </h1>
 <p align="justify">
 Ben, Bilgisayar Teknolojileri Bölümü'nde Öğretim Görevlisi olarak görev yapıyorum. Aynı zamanda <b>Yazılım, Uygulama Geliştirme ve Çözümleme Bölüm Başkanlığı</b> ve <b>Ön-Yüz Yazılım Geliştirme Program Başkanlığı</b> görevlerini yürütüyorum.
-<h4 align="left"> 🚀 Odaklandığım Teknolojiler & Uzmanlık Alanlarım</h4>
+<h4 align="left"> 🚀 Uzmanlık Alanlarım</h4>
 🌐 Ağ Teknolojileri & Siber Güvenlik<br>
 💻 Açık Kaynak İşletim Sistemleri<br>
 ⚡ İnternet Programcılığı (JavaScript, İleri Web Uygulamaları)<br>
@@ -12,7 +12,7 @@ Teknolojiyi sadece kullanan değil, üreten, şekillendiren ve güvenliğini sa�
   
 <br>
 <p align="justify"> I am an Instructor in the Computer Technologies Department. I also serve as the <b>Head of the Software, Application Development, and Analysis Department</b> and the <b>Head of the Front-End Software Development Program</b>.
-<h4 align="left"> 🚀 Technologies I Focus On & My Areas of Expertise</h4>
+<h4 align="left"> 🚀 My Areas of Expertise</h4>
 🌐 Network Technologies & Cybersecurity<br>
 💻 Open Source Operating Systems<br>
 ⚡ Internet Programming (JavaScript, Advanced Web Applications)<br>
